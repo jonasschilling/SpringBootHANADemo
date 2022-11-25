@@ -1,0 +1,7 @@
+---
+applications:
+  - name: springboothanademo
+    host: springboothanademo-d074024
+    path: target/SpringBootHANADemo-0.0.1-SNAPSHOT.jar
+    domain: cfapps.us10-001.hana.ondemand.com
+    memory: 1G
